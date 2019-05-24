@@ -3,5 +3,27 @@
 		"it": "Stato itinerario",
 		"en": "Itinerary status",
 		"de": "Reiseroutenstatus"
-	}
+	},
+	"status": [
+		{
+			"it": "Percorribile",
+			"en": "Walkable",
+			"de": "Begehbar"
+		},
+		{
+			"it": "Non percorribile",
+			"en": "Not passable",
+			"de": "Nicht passierbar"
+		},
+		{
+			"it": "Non verificato",
+			"en": "Not verified",
+			"de": "Nicht verifiziert"
+		},
+		{
+			"it": "Parzialmente percorribile",
+			"en": "Partially practicable",
+			"de": "Teilweise praktikabel"
+		}
+	]
 }
