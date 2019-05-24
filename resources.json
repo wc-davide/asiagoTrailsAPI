@@ -1,9 +1,4 @@
 {
-	"StatoItinerario": {
-		"it": "Stato itinerario",
-		"en": "Itinerary status",
-		"de": "Reiseroutenstatus"
-	},
 	"status": [
 		{
 			"it": "Percorribile",
@@ -25,5 +20,20 @@
 			"en": "Partially practicable",
 			"de": "Teilweise praktikabel"
 		}
-	]
+	],
+	"statusText": {
+		"it": "Stato itinerario",
+		"en": "Itinerary status",
+		"de": "Reiseroutenstatus"
+	},
+	"lastUpdateText": {
+		"it": "Ultimo aggiornamento",
+		"en": "Last update",
+		"de": "Letzte Aktualisierung"
+	},
+	"CaiIdText": {
+		"it": "Riferimento CAI",
+		"en": "CAI Reference",
+		"de": "CAI Referenz"
+	}
 }
