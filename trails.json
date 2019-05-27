@@ -67,17 +67,13 @@
 		"trailName": "Itinerario da Rifugio Campolongo a Forte Campolongo",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Percorribile solo dal Rifugio Campolongo al Forte Campolongo",
-			"en": "Accessible only from the Campolongo Refuge to the Campolongo Fort",
-			"de": "Zugänglich nur von der Campolongo-Zuflucht zum Campolongo-Fort"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Spiazzo Garibaldi",
 		"caiTrailEnd": "Campolongo - Caverna del Sciason",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-27 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
