@@ -88,11 +88,7 @@
 		"published": 1,
 		"state": "VI",
 		"status": 0,
-		"statusCustom": {
-			"it": "Custom",
-			"en": "enCustom",
-			"de": "deCustom"
-		},
+		"statusCustom": null,
 		"statusNotes": {
 			"it": "sconsigliato addentrarsi nel bosco nella zona del Lazzaretto/Prunno",
 			"en": "sconsigliato addentrarsi nel bosco nella zona del Lazzaretto/Prunno",
