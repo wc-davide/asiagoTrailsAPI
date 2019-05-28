@@ -122,14 +122,14 @@
 		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Solo per chi già conosce il percorso - alcuni abeti a terra presenti poco sotto la croce dell’Altaburg, facilmente aggirabili percorrendo la breve valletta posta poco nord del sentiero",
-			"en": "Only for those who already know the route - some fir trees on the ground just below the Altaburg cross, easily bypassed along the short valley just north of the path",
-			"de": "Nur für diejenigen, die den Weg bereits kennen - einige Tannenbäume auf dem Boden direkt unterhalb des Altaburg-Kreuzes, leicht zu umgehen entlang des kurzen Tals nördlich des Weges"
+			"it": "Alcuni abeti a terra sono presenti poco sotto la croce dell’Altaburg, ma sono facilmente aggirabili percorrendo la breve valletta posta poco nord del sentiero",
+			"en": "Some fir trees on the ground are present just below the Altaburg cross, but they are easily circumvented by following the short valley just north of the path",
+			"de": "Unterhalb des Altaburger Kreuzes stehen einige Tannenbäume auf dem Boden. Sie können jedoch leicht umgangen werden, indem Sie dem kurzen Tal nördlich des Pfades folgen"
 		},
 		"caiTrailStart": "Rotzo - Curva del Tellale",
 		"caiTrailEnd": "Altar Knotto e ritorno a Tellale per Quarta Strada",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
