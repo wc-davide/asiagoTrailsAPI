@@ -179,17 +179,17 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario escursione sul Monte Zebio",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile il tratto di sentiero che dalla Croce di S. Antonio sale fino a poco a sud della Mina di Scalambron, consigliato far la strada",
-			"en": "The part of the path that goes from the Croce di S. Antonio up to just south of the Mina di Scalambron is not feasible, it is recommended to make the road",
-			"de": "Der Teil des Weges, der vom Croce di S. Antonio bis südlich der Mina di Scalambron führt, ist nicht machbar, es wird empfohlen, die Straße zu machen"
+			"it": "Non fare variazioni, in quanto da Mina dello Scalambron alla Croce di S.Antonio non è praticabile",
+			"en": "Do not make variations, since from Mina dello Scalambron to the Croce di S. Antonio is not practicable",
+			"de": "Machen Sie keine Variationen, da von Mina dello Scalambron bis zum Croce di S. Antonio nicht praktikabel ist"
 		},
 		"caiTrailStart": "Croce di S. Antonio/Val Giardini",
 		"caiTrailEnd": "Monte Zebio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -235,17 +235,17 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario - Escursione sulle Melette di Foza, Monte Fior",
 		"published": 1,
 		"state": "VI",
-		"status": 1,
+		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile il tratto della Val Miela da quota 999 a quota 1540 e il tratto sul lato nord del Monte Fior",
-			"en": "The section of the Val Miela cannot be traveled from an altitude of 999 to an altitude of 1540 and the stretch on the north side of Monte Fior",
-			"de": "Der Abschnitt des Val Miela kann nicht von einer Höhe von 999 bis zu einer Höhe von 1540 und der Strecke auf der Nordseite des Monte Fior befahren werden"
+			"it": "Solo da Malga Lora a casara Melette",
+			"en": "Only from Malga Lora to casara Melette",
+			"de": "Nur von Malga Lora nach Casara Melette",
 		},
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -275,17 +275,17 @@
 		"trailName": "Itinerario Grande Guerra: Prunno, San Sisto Ridge, Kaberlaba, Barenthal - Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Sconsigliato addentrarsi nel bosco nella zona del Lazzaretto/Prunno",
-			"en": "It is not advisable to go into the wood in the Lazzaretto / Prunno area",
-			"de": "Es ist nicht ratsam, im Gebiet Lazzaretto / Prunno in den Wald zu gehen"
+			"it": "Sconsigliato addentrarsi nel bosco",
+			"en": "Not recommended to go into the woods",
+			"de": "Nicht zu empfehlen in den Wald zu gehen"
 		},
 		"caiTrailStart": "Prunno",
 		"caiTrailEnd": "Barenthal",
 		"maintenanceAgency": null,
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -331,17 +331,13 @@
 		"trailName": "Itinerario escursione Cima Larici - Cima Mandriolo - Altopiano di Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Zona del Manderiolo inagibile, attenzione neve",
-			"en": "Manderius area unusable, attention to snow",
-			"de": "Manderius Bereich unbrauchbar, Aufmerksamkeit auf Schnee"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Rifugio Larici",
 		"caiTrailEnd": "Bocchetta Larici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -405,15 +401,11 @@
 		"state": "VI",
 		"status": 3,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Non percorribile il tratto della Val Miela da quota 999 a quota 1540 e il tratto sul lato nord del Monte Fior, solo sentiero in quota",
-			"en": "The stretch of Val Miela cannot be traveled from an altitude of 999 to an altitude of 1540 and the stretch on the north side of Monte Fior, only a trail at high altitude",
-			"de": "Der Abschnitt des Val Miela kann nicht von einer Höhe von 999 bis zu einer Höhe von 1540 befahren werden, und der Abschnitt an der Nordseite des Monte Fior ist nur ein Höhenweg"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -495,17 +487,17 @@
 		"trailName": "Itinerario escursione su Cima XII - Altopiano di Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "833 percorribile solo il tratto dalla Croce del Francese ai cimiteri Mosciagh 1-2, no il tratto del Forte Interrotto",
-			"en": "833 passable only the section from the French Cross to the Mosciagh 1-2 cemeteries, not the section of the Fort Interrupted",
-			"de": "833 passierbar ist nur der Abschnitt vom Französischen Kreuz bis zum Mosciagh 1-2 Friedhof, nicht der Abschnitt des Fort Interrupted"
+			"it": "La variante 833 percorribile solo il tratto dalla Croce del Francese ai cimiteri Mosciagh 1-2, no il tratto del Forte Interrotto",
+			"en": "The 833 variant can only be crossed from the French Cross to the Mosciagh 1-2 cemeteries, not the Fort Interrupted section",
+			"de": "Die Variante 833 kann nur vom französischen Kreuz zu den Friedhöfen von Mosciagh 1-2 überquert werden, nicht zu dem Abschnitt mit unterbrochener Festung"
 		},
 		"caiTrailStart": "Bivio Italia",
 		"caiTrailEnd": "Cima Dodici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24 00:00:00"
+		"lastUpdate": "2019-05-28 00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
