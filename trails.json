@@ -105,7 +105,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": null,
+		"statusNotes": {
+			"it": "Il percorso presenta alcuni alberi caduti facilmente aggirabili",
+			"en": "The path has some fallen trees that can be easily bypassed",
+			"de": "Der Weg hat einige umgestürzte Bäume, die leicht umgangen werden können"
+		},
 		"caiTrailStart": "Ponte sul Ghlepach S.P. 349",
 		"caiTrailEnd": "Canove (o Roana q. 973) - per la Val d'Assa",
 		"maintenanceAgency": "Asiago",
