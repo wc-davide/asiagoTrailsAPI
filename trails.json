@@ -10,14 +10,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile - Percorribile anche il collegamento da Campomuletto a Malga Fiara - Il sent. 850b non è percorribile",
-			"en": "Practicable - The connection from Campomuletto to Malga Fiara - Il sent. 850b is not viable",
-			"de": "Praktisch - Die Verbindung von Campomuletto nach Malga Fiara - Il gesendet. 850b ist nicht lebensfähig"
+			"it": "Percorribile - Percorribile anche il collegamento da Campomuletto a Malga Fiara",
+			"en": "Practicable - The connection from Campomuletto to Malga Fiara",
+			"de": "Praktisch - Die Verbindung von Campomuletto nach Malga Fiara"
 		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -29,15 +29,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Attenzione neve",
-			"en": "Caution snow",
-			"de": "Vorsicht Schnee"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "bivio per Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -49,15 +45,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Attenzione neve",
-			"en": "Caution snow",
-			"de": "Vorsicht Schnee"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "bivio per Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -105,15 +97,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Il percorso presenta alcuni alberi caduti facilmente aggirabili",
-			"en": "The path has some fallen trees that can be easily bypassed",
-			"de": "Der Weg hat einige umgestürzte Bäume, die leicht umgangen werden können"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Ponte sul Ghlepach S.P. 349",
 		"caiTrailEnd": "Canove (o Roana q. 973) - per la Val d'Assa",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-07T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -146,14 +134,14 @@
 		"status": 1,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile per i molti alberi caduti e in bilico (percorribile solo il primo tratto dal Roccolo Cattagno a Malga Fossetta)",
-			"en": "Not practicable for the many fallen trees and in balance (passable only the first stretch from Roccolo Cattagno to Malga Fossetta)",
-			"de": "Nicht praktikabel für die vielen umgestürzten Bäume und im Gleichgewicht (nur die erste Strecke von Roccolo Cattagno bis Malga Fossetta befahrbar)"
+			"it": "Non percorribile solo la parte est dell’anello sommitale",
+			"en": "Only the eastern part of the summit ring is not passable",
+			"de": "Nur der östliche Teil des Gipfelrings ist nicht befahrbar"
 		},
 		"caiTrailStart": "Roccolo Cattagno",
 		"caiTrailEnd": "Castelloni di S. Marco",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-11T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -165,15 +153,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Fare attenzione in zona del Mandriolo e neve",
-			"en": "Be careful in the Mandriolo area and snow",
-			"de": "Seien Sie vorsichtig in der Gegend von Mandriolo und im Schnee"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Rifugio Larici",
 		"caiTrailEnd": "Bocchetta Larici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -205,15 +189,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "La variante 850b non è agibile",
-			"en": "The 850b variant is not accessible",
-			"de": "Die 850b-Variante ist nicht zugänglich"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -261,15 +241,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Attenzione neve",
-			"en": "Caution snow",
-			"de": "Vorsicht Schnee"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "bivio per Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -299,17 +275,17 @@
 		"trailName": "Itinerario per il giro delle malghe del Verena - Altopiano di Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Mezzi in movimento, non percorribile il tratto da Campovecchio al Monte Verena via Bosco Sette-Val delle Carbonare",
-			"en": "Means in movement, the stretch from Campovecchio to Monte Verena is not viable via Bosco Sette-Val delle Carbonare",
-			"de": "In Bewegung ist die Strecke von Campovecchio nach Monte Verena nicht über den Bosco Sette-Val delle Carbonare zu bewältigen"
+			"it": "Percorribile, breve deviazione segnalata con frecce nei pressi di malga Verena",
+			"en": "Practicable, short detour marked with arrows near Malga Verena",
+			"de": "Praktischer, kurzer Umweg markiert mit Pfeilen bei Malga Verena"
 		},
 		"caiTrailStart": "Malga Campovecchio",
 		"caiTrailEnd": "Monte Verena - ritorno a C. Campovecchio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -533,15 +509,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Attenzione se c'è neve, perché instabile in questa stagione",
-			"en": "Be careful if there is snow, because it is unstable this season",
-			"de": "Seien Sie vorsichtig, wenn es schneit, weil es in dieser Saison instabil ist"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "bivio Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
