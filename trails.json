@@ -453,15 +453,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Seguendo la strada non ci sono problemi, causa neve può essere che ci si debba fermare a campo Muletto",
-			"en": "Following the road there are no problems, due to snow it may be that we should stop at Campo Muletto",
-			"de": "Der Straße folgend gibt es keine Probleme, aufgrund von Schnee kann es sein, dass wir am Campo Muletto anhalten sollten"
-		},
+		"statusNotes": null,
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-18T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
