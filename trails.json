@@ -243,13 +243,17 @@
 		"trailName": "Itinerario Bivio di Basa Senocio a Monte Meatta e Bocchetta Portule con ritorno per la val di Portule, crinale Meatta - Altopiano di Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
-		"statusNotes": null,
+		"statusNotes": {
+			"it": "Percorribile solo fino alla casara Meatta.",
+			"en": "Only accessible to the Meatta dairy.",
+			"de": "Nur für die Molkerei Meatta zugänglich."
+		},
 		"caiTrailStart": "bivio per Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-07-01T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
