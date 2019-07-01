@@ -10,14 +10,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile - Percorribile anche il collegamento da Campomuletto a Malga Fiara",
-			"en": "Practicable - The connection from Campomuletto to Malga Fiara",
-			"de": "Praktisch - Die Verbindung von Campomuletto nach Malga Fiara"
+			"it": "Percorribile - Percorribile anche il collegamento da Campomulo a Malga Fiara - Il sent. 850b non è percorribile.",
+			"en": "Practicable - The connection from Campomulo to Malga Fiara - Il sent. 850b is not viable.",
+			"de": "Praktisch - Die Verbindung von Campomulo nach Malga Fiara - Il gesendet. 850b ist nicht lebensfähig."
 		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -65,7 +65,7 @@
 		"caiTrailStart": "Spiazzo Garibaldi",
 		"caiTrailEnd": "Campolongo - Caverna del Sciason",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-27T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -101,7 +101,7 @@
 		"caiTrailStart": "Ponte sul Ghlepach S.P. 349",
 		"caiTrailEnd": "Canove (o Roana q. 973) - per la Val d'Assa",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -114,14 +114,14 @@
 		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Alcuni abeti a terra sono presenti poco sotto la croce dell’Altaburg, ma sono facilmente aggirabili percorrendo la breve valletta posta poco nord del sentiero",
-			"en": "Some fir trees on the ground are present just below the Altaburg cross, but they are easily circumvented by following the short valley just north of the path",
-			"de": "Unterhalb des Altaburger Kreuzes stehen einige Tannenbäume auf dem Boden. Sie können jedoch leicht umgangen werden, indem Sie dem kurzen Tal nördlich des Pfades folgen"
+			"it": "Percorribile - Alcuni abeti a terra sono presenti poco sotto la croce dell'Altaburg, ma sono facilmente aggirabili percorrendo la breve valletta posta poco a nord del sentiero.",
+			"en": "Practicable - Some fir trees on the ground are present just below the Altaburg cross, but they are easily circumvented by following the short valley just north of the path.",
+			"de": "Praktisch - Unterhalb des Altaburger Kreuzes gibt es einige Tannenbäume, die leicht umgangen werden können, wenn Sie dem kurzen Tal nördlich des Weges folgen."
 		},
 		"caiTrailStart": "Rotzo - Curva del Tellale",
 		"caiTrailEnd": "Altar Knotto e ritorno a Tellale per Quarta Strada",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-28T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -134,14 +134,14 @@
 		"status": 1,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile solo la parte est dell’anello sommitale",
-			"en": "Only the eastern part of the summit ring is not passable",
-			"de": "Nur der östliche Teil des Gipfelrings ist nicht befahrbar"
+			"it": "Non percorribile per i molti alberi caduti e in bilico.",
+			"en": "Not practicable for the many fallen and poised trees.",
+			"de": "Nicht praktikabel für die vielen umgestürzten und ausgeglichenen Bäume."
 		},
 		"caiTrailStart": "Roccolo Cattagno",
 		"caiTrailEnd": "Castelloni di S. Marco",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -167,17 +167,17 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario escursione sul Monte Zebio",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non fare variazioni, in quanto da Mina dello Scalambron alla Croce di S.Antonio non è praticabile",
-			"en": "Do not make variations, since from Mina dello Scalambron to the Croce di S. Antonio is not practicable",
-			"de": "Machen Sie keine Variationen, da von Mina dello Scalambron bis zum Croce di S. Antonio nicht praktikabel ist"
+			"it": "Percorribile in parte - Non percorribile solo il tratto che dalla Croce di S. Antonio sale fino a poco a sud della Minadi Scalambron.",
+			"en": "Partially passable - Not only the section that goes from the Cross of St. Antonio to the south of Minadi Scalambron can be followed.",
+			"de": "Teilweise befahrbar - Es kann nicht nur der Abschnitt vom Kreuz von St. Antonio bis südlich von Minadi Scalambron befolgt werden."
 		},
 		"caiTrailStart": "Croce di S. Antonio/Val Giardini",
 		"caiTrailEnd": "Monte Zebio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-28T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -189,11 +189,15 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": null,
+		"statusNotes": {
+			"it": "Percorribile - Percorribile anche il collegamento da Campomulo a Malga Fiara - Il sent. 850b non è percorribile.",
+			"en": "Practicable - The connection from Campomulo to Malga Fiara - Il sent. 850b is not viable.",
+			"de": "Praktisch - Die Verbindung von Campomulo nach Malga Fiara - Il gesendet. 850b ist nicht lebensfähig."
+		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -285,7 +289,7 @@
 		"caiTrailStart": "Malga Campovecchio",
 		"caiTrailEnd": "Monte Verena - ritorno a C. Campovecchio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -409,7 +413,7 @@
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
-		"lastUpdate": "2019-05-24T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -470,14 +474,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "La variante 833 percorribile solo il tratto dalla Croce del Francese ai cimiteri Mosciagh 1-2, no il tratto del Forte Interrotto",
-			"en": "The 833 variant can only be crossed from the French Cross to the Mosciagh 1-2 cemeteries, not the Fort Interrupted section",
-			"de": "Die Variante 833 kann nur vom französischen Kreuz zu den Friedhöfen von Mosciagh 1-2 überquert werden, nicht zu dem Abschnitt mit unterbrochener Festung"
+			"it": "La variante 833 percorribile solo il tratto dalla Croce del Francese ai cimiteri Mosciagh 1-2, non percorribile tutto il resto.",
+			"en": "The 833 variant can only be crossed from the Cross of the French to the Mosciagh 1-2 cemeteries, all the rest is not passable.",
+			"de": "Die Variante 833 kann nur vom Kreuz der Franzosen zu den Mosciagh 1-2 Friedhöfen überquert werden, der Rest ist nicht befahrbar."
 		},
 		"caiTrailStart": "Bivio Italia",
 		"caiTrailEnd": "Cima Dodici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-05-28T00:00:00"
+		"lastUpdate": "2019-06-22T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
