@@ -167,17 +167,13 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario escursione sul Monte Zebio",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Percorribile in parte - Non percorribile solo il tratto che dalla Croce di S. Antonio sale fino a poco a sud della Minadi Scalambron.",
-			"en": "Partially passable - Not only the section that goes from the Cross of St. Antonio to the south of Minadi Scalambron can be followed.",
-			"de": "Teilweise befahrbar - Es kann nicht nur der Abschnitt vom Kreuz von St. Antonio bis südlich von Minadi Scalambron befolgt werden."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Croce di S. Antonio/Val Giardini",
 		"caiTrailEnd": "Monte Zebio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-07-01T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
