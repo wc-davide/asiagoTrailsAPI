@@ -239,7 +239,7 @@
 		"trailName": "Itinerario Bivio di Basa Senocio a Monte Meatta e Bocchetta Portule con ritorno per la val di Portule, crinale Meatta - Altopiano di Asiago",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 1,
 		"statusCustom": null,
 		"statusNotes": {
 			"it": "Percorribile solo fino alla casara Meatta.",
@@ -507,7 +507,7 @@
 		"trailName": "Itinerario escursione: Bivio di Malga Larici - Porta Renzola – Cima Kempel - Cima Portule – Bocchetta Portule - Bivio di Malga Larici",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 1,
 		"statusCustom": null,
 		"statusNotes": null,
 		"caiTrailStart": "bivio Malga Larici",
