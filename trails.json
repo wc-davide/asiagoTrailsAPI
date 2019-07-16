@@ -131,17 +131,17 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Escursione ai Castelloni di San Marco",
 		"published": 1,
 		"state": "VI",
-		"status": 1,
+		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile per i molti alberi caduti e in bilico.",
-			"en": "Not practicable for the many fallen and poised trees.",
-			"de": "Nicht praktikabel für die vielen umgestürzten und ausgeglichenen Bäume."
+			"it": "Ripulito in gran parte, non percorribile solo la parte est dell’anello sommitale; labirinto percorribile con accesso da ovest.",
+			"en": "Largely cleaned, not only the eastern part of the summit ring is passable; passable labyrinth with access from the west.",
+			"de": "Weitgehend gereinigt, ist nicht nur der östliche Teil des Gipfelrings befahrbar; begehbares Labyrinth mit Zugang von Westen."
 		},
 		"caiTrailStart": "Roccolo Cattagno",
 		"caiTrailEnd": "Castelloni di S. Marco",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-07-16T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -222,14 +222,14 @@
 		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile solo il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
-			"en": "Not only the stretch of the Val Miela from a height of 999 to an altitude of 1540, practicable on the upper ring.",
-			"de": "Nicht nur der Abschnitt des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540, der auf dem oberen Ring praktikabel ist."
+			"it": "In fase di ripulitura il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
+			"en": "In the phase of cleaning the stretch of the Val Miela from an altitude of 999 to an altitude of 1540, the upper ring is passable.",
+			"de": "In der Phase der Reinigung der Strecke des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540 ist der obere Ring befahrbar."
 		},
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-11T00:00:00"
+		"lastUpdate": "2019-07-16T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -382,14 +382,14 @@
 		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Non percorribile solo il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
-			"en": "Not only the stretch of the Val Miela from a height of 999 to an altitude of 1540, practicable on the upper ring.",
-			"de": "Nicht nur der Abschnitt des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540, der auf dem oberen Ring praktikabel ist."
+			"it": "In fase di ripulitura il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
+			"en": "In the phase of cleaning the stretch of the Val Miela from an altitude of 999 to an altitude of 1540, the upper ring is passable.",
+			"de": "In der Phase der Reinigung der Strecke des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540 ist der obere Ring befahrbar."
 		},
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-11T00:00:00"
+		"lastUpdate": "2019-07-16T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -503,13 +503,13 @@
 		"trailName": "Itinerario escursione: Bivio di Malga Larici - Porta Renzola – Cima Kempel - Cima Portule – Bocchetta Portule - Bivio di Malga Larici",
 		"published": 1,
 		"state": "VI",
-		"status": 1,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": null,
 		"caiTrailStart": "bivio Malga Larici",
 		"caiTrailEnd": "Bocchetta e Cima Portule - Porta Renzola",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-17T00:00:00"
+		"lastUpdate": "2019-07-16T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
