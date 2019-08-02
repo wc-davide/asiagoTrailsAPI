@@ -131,17 +131,13 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Escursione ai Castelloni di San Marco",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Ripulito in gran parte, non percorribile solo la parte est dell’anello sommitale; labirinto percorribile con accesso da ovest.",
-			"en": "Largely cleaned, not only the eastern part of the summit ring is passable; passable labyrinth with access from the west.",
-			"de": "Weitgehend gereinigt, ist nicht nur der östliche Teil des Gipfelrings befahrbar; begehbares Labyrinth mit Zugang von Westen."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Roccolo Cattagno",
 		"caiTrailEnd": "Castelloni di S. Marco",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-07-16T00:00:00"
+		"lastUpdate": "2019-08-02T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -183,17 +179,17 @@
 		"trailName": "Escursione sul Monte Longara",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile - Percorribile anche il collegamento da Campomulo a Malga Fiara - Il sent. 850b non è percorribile.",
-			"en": "Practicable - The connection from Campomulo to Malga Fiara - Il sent. 850b is not viable.",
-			"de": "Praktisch - Die Verbindung von Campomulo nach Malga Fiara - Il gesendet. 850b ist nicht lebensfähig."
+			"it": "Percorribile solo nei tratti: Campo di Sotto-Forcellona-Albergo Marcesina; Chiesa di Frizzon-Casara Binda.",
+			"en": "Accessible only in the sections: Campo di Sotto-Forcelona-Albergo Marcesina; Church of Frizzon-Casara Binda.",
+			"de": "Zugänglich nur in den Abschnitten: Campo di Sotto-Forcelona-Albergo Marcesina; Kirche von Frizzon-Casara Binda."
 		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-08-02T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
