@@ -215,17 +215,13 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario - Escursione sulle Melette di Foza, Monte Fior",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "In fase di ripulitura il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
-			"en": "In the phase of cleaning the stretch of the Val Miela from an altitude of 999 to an altitude of 1540, the upper ring is passable.",
-			"de": "In der Phase der Reinigung der Strecke des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540 ist der obere Ring befahrbar."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-07-16T00:00:00"
+		"lastUpdate": "2019-08-28T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
