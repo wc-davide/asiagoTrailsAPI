@@ -111,17 +111,13 @@
 		"trailName": "Itinerari per escursioni e passeggiate: Escursione all'Altar Knotto",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Percorribile - Alcuni abeti a terra sono presenti poco sotto la croce dell'Altaburg, ma sono facilmente aggirabili percorrendo la breve valletta posta poco a nord del sentiero.",
-			"en": "Practicable - Some fir trees on the ground are present just below the Altaburg cross, but they are easily circumvented by following the short valley just north of the path.",
-			"de": "Praktisch - Unterhalb des Altaburger Kreuzes gibt es einige Tannenbäume, die leicht umgangen werden können, wenn Sie dem kurzen Tal nördlich des Weges folgen."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Rotzo - Curva del Tellale",
 		"caiTrailEnd": "Altar Knotto e ritorno a Tellale per Quarta Strada",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-09-04T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -371,17 +367,13 @@
 		"trailName": "Escursione Malga Fratte - Melette di Foza - Monte Fior (Un anno sull'Altipiano) - Le melette di Foza: \"i luoghi della Guerra e della letteratura\"",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "In fase di ripulitura il tratto della val Miela da quota 999 a quota 1540, percorribile l’anello superiore.",
-			"en": "In the phase of cleaning the stretch of the Val Miela from an altitude of 999 to an altitude of 1540, the upper ring is passable.",
-			"de": "In der Phase der Reinigung der Strecke des Val Miela von einer Höhe von 999 bis zu einer Höhe von 1540 ist der obere Ring befahrbar."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-07-16T00:00:00"
+		"lastUpdate": "2019-09-04T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -462,14 +454,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "La variante 833 percorribile solo il tratto dalla Croce del Francese ai cimiteri Mosciagh 1-2, non percorribile tutto il resto.",
-			"en": "The 833 variant can only be crossed from the Cross of the French to the Mosciagh 1-2 cemeteries, all the rest is not passable.",
-			"de": "Die Variante 833 kann nur vom Kreuz der Franzosen zu den Mosciagh 1-2 Friedhöfen überquert werden, der Rest ist nicht befahrbar."
+			"it": "Percorribile (ripulito) il tratto dalla Croce del Francese al cimitero Mosciagh 3, non percorribile dal Mosciagh  3 al bivacco Stalder.",
+			"en": "The stretch from the Cross of the French to the Mosciagh 3 cemetery is passable (cleaned up), which cannot be followed from the Mosciagh 3 to the Stalder bivouac.",
+			"de": "Die Strecke vom Kreuz der Franzosen bis zum Friedhof Mosciagh 3 ist befahrbar (aufgeräumt), die vom Mosciagh 3 bis zum Biwak Stalder nicht befahrbar ist."
 		},
 		"caiTrailStart": "Bivio Italia",
 		"caiTrailEnd": "Cima Dodici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-09-04T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
