@@ -576,6 +576,38 @@
 		"lastUpdate": "2019-05-24T00:00:00"
 	},
 	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 12110,
+		"caiTrailId": null,
+		"trailName": "Itinerario escursione Treschè Conca - Forte Corbin – Monte Cengio - Treschè Conca",
+		"published": 0,
+		"state": null,
+		"status": 2,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2019-09-06T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 12640,
+		"caiTrailId": null,
+		"trailName": "Itinerario escursione Treschè Conca - CAI 804 - Forte Corbin - Treschè Conca",
+		"published": 0,
+		"state": null,
+		"status": 2,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2019-09-06T00:00:00"
+	},
+	{
 		"category": "Orienteering",
 		"trailId": null,
 		"articleId": 4873,
