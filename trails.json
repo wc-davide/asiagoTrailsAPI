@@ -10,14 +10,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile - Percorribile anche il collegamento da Campomulo a Malga Fiara - Il sent. 850b non è percorribile.",
-			"en": "Practicable - The connection from Campomulo to Malga Fiara - Il sent. 850b is not viable.",
-			"de": "Praktisch - Die Verbindung von Campomulo nach Malga Fiara - Il gesendet. 850b ist nicht lebensfähig."
+			"it": "Percorribile. Percorribile anche il collegamento da Campomuletto a malga Fiara.",
+			"en": "Walkable. The connection from Campomuletto to Malga Fiara is also accessible.",
+			"de": "Begehbare. Die Verbindung von Campomuletto nach Malga Fiara ist ebenfalls zugänglich."
 		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2019-10-23T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -175,17 +175,17 @@
 		"trailName": "Escursione sul Monte Longara",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile solo nei tratti: Campo di Sotto-Forcellona-Albergo Marcesina; Chiesa di Frizzon-Casara Binda.",
-			"en": "Accessible only in the sections: Campo di Sotto-Forcelona-Albergo Marcesina; Church of Frizzon-Casara Binda.",
-			"de": "Zugänglich nur in den Abschnitten: Campo di Sotto-Forcelona-Albergo Marcesina; Kirche von Frizzon-Casara Binda."
+			"it": "Percorribile. Percorribile anche il collegamento da Campomuletto a malga Fiara.",
+			"en": "Walkable. The connection from Campomuletto to Malga Fiara is also accessible.",
+			"de": "Begehbare. Die Verbindung von Campomuletto nach Malga Fiara ist ebenfalls zugänglich."
 		},
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-08-02T00:00:00"
+		"lastUpdate": "2019-10-23T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
@@ -454,9 +454,9 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile (ripulito) il tratto dalla Croce del Francese al cimitero Mosciagh 3, non percorribile dal Mosciagh  3 al bivacco Stalder.",
-			"en": "The stretch from the Cross of the French to the Mosciagh 3 cemetery is passable (cleaned up), which cannot be followed from the Mosciagh 3 to the Stalder bivouac.",
-			"de": "Die Strecke vom Kreuz der Franzosen bis zum Friedhof Mosciagh 3 ist befahrbar (aufgeräumt), die vom Mosciagh 3 bis zum Biwak Stalder nicht befahrbar ist."
+			"it": "Percorribile (ripulito) il tratto dalla Croce del Francese al cimitero Mosciagh 3, non percorribile dal cimitero Mosciagh  3 al bivacco Stalder.",
+			"en": "The section from the Cross of the French to the Mosciagh 3 cemetery is accessible (cleaned), not accessible from the Mosciagh 3 cemetery to the Stalder bivouac.",
+			"de": "Der Abschnitt vom Kreuz der Franzosen zum Mosciagh-3-Friedhof ist zugänglich (gereinigt), nicht zugänglich vom Mosciagh-3-Friedhof zum Stalder-Biwak."
 		},
 		"caiTrailStart": "Bivio Italia",
 		"caiTrailEnd": "Cima Dodici",
