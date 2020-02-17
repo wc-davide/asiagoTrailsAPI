@@ -946,5 +946,21 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2019-05-24T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13203,
+		"caiTrailId": null,
+		"trailName": "Sentiero degli Dei – Percorso di mobilità dolce Enego-Valdifabbro-Col Bartàise-Vélte-Fosse di Mezzo-Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-02-18T00:00:00"
 	}
 ]
