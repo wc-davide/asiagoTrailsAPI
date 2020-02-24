@@ -962,5 +962,21 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2020-02-18T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13209,
+		"caiTrailId": null,
+		"trailName": "Sentiero dei Sensi – Percorso di mobilità dolce Enego-Valdifabbro-Cornetta-Via Tàbaro-Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-02-24T00:00:00"
 	}
 ]
