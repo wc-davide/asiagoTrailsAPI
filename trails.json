@@ -982,6 +982,22 @@
 	{
 		"category": "Escursioni e passeggiate",
 		"trailId": null,
+		"articleId": 13207,
+		"caiTrailId": null,
+		"trailName": "Sentiero dei Conti – Percorso di mobilità dolce Enego-Coldarco di Sopra-Frizzon-Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-05-25T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
 		"articleId": 13210,
 		"caiTrailId": null,
 		"trailName": "Sentiero del Forte – Percorso di mobilità dolce Enego-Coldarco di Mezzo-Coldarco di Sotto-Fosse-Enego",
