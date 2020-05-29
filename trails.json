@@ -266,14 +266,14 @@
 		"status": 0,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Percorribile, breve deviazione segnalata con frecce nei pressi di malga Verena",
-			"en": "Practicable, short detour marked with arrows near Malga Verena",
-			"de": "Praktischer, kurzer Umweg markiert mit Pfeilen bei Malga Verena"
+			"it": "Percorribile (ripulito), presente una deviazione nei pressi di Casara Verena.",
+			"en": "Walkable (cleaned up), there is a detour near Casara Verena.",
+			"de": "Begehbar (aufgeräumt) gibt es einen Umweg in der Nähe von Casara Verena."
 		},
 		"caiTrailStart": "Malga Campovecchio",
 		"caiTrailEnd": "Monte Verena - ritorno a C. Campovecchio",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-06-22T00:00:00"
+		"lastUpdate": "2020-05-29T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
