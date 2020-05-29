@@ -998,6 +998,22 @@
 	{
 		"category": "Escursioni e passeggiate",
 		"trailId": null,
+		"articleId": 13211,
+		"caiTrailId": null,
+		"trailName": "Sentiero dell’Acqua – Percorso di mobilità dolce Enego-Valdifabbro-Coste-Valdicina-Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-05-29T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
 		"articleId": 13210,
 		"caiTrailId": null,
 		"trailName": "Sentiero del Forte – Percorso di mobilità dolce Enego-Coldarco di Mezzo-Coldarco di Sotto-Fosse-Enego",
