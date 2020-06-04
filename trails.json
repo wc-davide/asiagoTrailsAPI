@@ -1014,6 +1014,42 @@
 	{
 		"category": "Escursioni e passeggiate",
 		"trailId": null,
+		"articleId": 13208,
+		"caiTrailId": null,
+		"trailName": "Sentiero della Pietra – Percorso di mobilità dolce Enego-Val del Zante-Bìsele-Lecche-Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 1,
+		"statusCustom": null,
+		"statusNotes": {
+			"it": "Non percorribile causa esbosco in corso.",
+			"en": "Not viable due to ongoing logging.",
+			"de": "Aufgrund der laufenden Protokollierung nicht realisierbar."
+		},
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-06-04T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13212,
+		"caiTrailId": null,
+		"trailName": "Sentiero Panorama – Percorso di mobilità dolce Stoner - Montagnola - Monte Spitz - Stoner",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-06-04T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
 		"articleId": 13210,
 		"caiTrailId": null,
 		"trailName": "Sentiero del Forte – Percorso di mobilità dolce Enego-Coldarco di Mezzo-Coldarco di Sotto-Fosse-Enego",
