@@ -453,15 +453,11 @@
 		"state": "VI",
 		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Percorribile (ripulito) il tratto dalla Croce del Francese al cimitero Mosciagh 3, non percorribile dal cimitero Mosciagh  3 al bivacco Stalder.",
-			"en": "The section from the Cross of the French to the Mosciagh 3 cemetery is accessible (cleaned), not accessible from the Mosciagh 3 cemetery to the Stalder bivouac.",
-			"de": "Der Abschnitt vom Kreuz der Franzosen zum Mosciagh-3-Friedhof ist zugänglich (gereinigt), nicht zugänglich vom Mosciagh-3-Friedhof zum Stalder-Biwak."
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Bivio Italia",
 		"caiTrailEnd": "Cima Dodici",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-09-04T00:00:00"
+		"lastUpdate": "2020-06-08T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
