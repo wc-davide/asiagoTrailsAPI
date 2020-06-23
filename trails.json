@@ -207,17 +207,21 @@
 		"category": "Escursioni e passeggiate",
 		"trailId": 13,
 		"articleId": 1438,
-		"caiTrailId": "861",
+		"caiTrailId": "860,861",
 		"trailName": "Itinerari per escursioni e passeggiate: Itinerario - Escursione sulle Melette di Foza, Monte Fior",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
-		"statusNotes": null,
+		"statusNotes": {
+			"it": "860: Percorribile solo il tratto da malga Lora a casara Meletta",
+			"en": "860: Only the stretch from Malga Lora to Casara Meletta can be traveled",
+			"de": "860: Nur die Strecke von Malga Lora nach Casara Meletta kann befahren werden"
+		},
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2019-08-28T00:00:00"
+		"lastUpdate": "2020-06-23T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
