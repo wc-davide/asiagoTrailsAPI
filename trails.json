@@ -1058,5 +1058,21 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2020-03-02T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13585,
+		"caiTrailId": "868",
+		"trailName": "Itinerario della Piovega di Sopra da Enego a Primolano",
+		"published": 0,
+		"state": "VI",
+		"status": 2,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-06-24T00:00:00"
 	}
 ]
