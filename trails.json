@@ -1074,5 +1074,21 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2020-06-24T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13606,
+		"caiTrailId": "791,791B",
+		"trailName": "Itinerario della Piovega di Sotto ad Enego",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-06-24T00:00:00"
 	}
 ]
