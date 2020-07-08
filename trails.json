@@ -1090,5 +1090,37 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2020-06-24T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": 70,
+		"articleId": 13687,
+		"caiTrailId": null,
+		"trailName": "GIRO MALGA PUSTERLE",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-07-08T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": 70,
+		"articleId": 13715,
+		"caiTrailId": "872",
+		"trailName": "MALGA VERDE",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-07-08T00:00:00"
 	}
 ]
