@@ -1138,5 +1138,73 @@
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
 		"lastUpdate": "2020-07-13T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 13961,
+		"caiTrailId": null,
+		"trailName": "Escursione Forte Lisser",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-01-01T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": 67,
+		"articleId": 13960,
+		"caiTrailId": null,
+		"trailName": "Escursione Giro delle Malghe di Marcesina - Malga II Lotto Marcesina",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-07-20T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": 68,
+		"articleId": 13959,
+		"caiTrailId": null,
+		"trailName": "Escursione Malga I Lotto Valmaro - 7 Caliere",
+		"published": 0,
+		"state": "VI",
+		"status": 3,
+		"statusCustom": null,
+		"statusNotes": {
+			"it": "Chiuso momentaneamente a causa di lavori forestali in zona",
+			"en": "Temporarily closed due to forest works in the area",
+			"de": "Vorübergehend wegen Waldarbeiten in der Umgebung geschlossen"
+		},
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-07-20T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
+		"trailId": null,
+		"articleId": 99999999999,
+		"caiTrailId": null,
+		"trailName": "TRAIL_NAME",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-01-01T00:00:00"
 	}
 ]
