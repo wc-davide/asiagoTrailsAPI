@@ -1131,13 +1131,13 @@
 		"trailName": "Escursione giro Malga Camporossignolo",
 		"published": 0,
 		"state": "VI",
-		"status": 0,
+		"status": 2,
 		"statusCustom": null,
 		"statusNotes": null,
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
-		"lastUpdate": "2020-07-13T00:00:00"
+		"lastUpdate": "2020-07-20T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
