@@ -1141,9 +1141,9 @@
 	},
 	{
 		"category": "Escursioni e passeggiate",
-		"trailId": null,
+		"trailId": 42,
 		"articleId": 13961,
-		"caiTrailId": null,
+		"caiTrailId": "865",
 		"trailName": "Escursione Forte Lisser",
 		"published": 0,
 		"state": "VI",
