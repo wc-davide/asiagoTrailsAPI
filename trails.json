@@ -1193,6 +1193,22 @@
 	},
 	{
 		"category": "Escursioni e passeggiate",
+		"trailId": 73,
+		"articleId": 14068,
+		"caiTrailId": null,
+		"trailName": "Escursione Malga Pian di Granezza",
+		"published": 0,
+		"state": "VI",
+		"status": 2,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-07-28T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
 		"trailId": null,
 		"articleId": 99999999999,
 		"caiTrailId": null,
