@@ -1182,9 +1182,9 @@
 		"status": 1,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Chiuso momentaneamente a causa di lavori forestali in zona",
-			"en": "Temporarily closed due to forest works in the area",
-			"de": "Vorübergehend wegen Waldarbeiten in der Umgebung geschlossen"
+			"it": "Possibilità di itinerario chiuso momentaneamente a causa di lavori forestali in zona",
+			"en": "Possibility of itinerary closed temporarily due to forest works in the area",
+			"de": "Möglichkeit der vorübergehenden Schließung der Reiseroute aufgrund von Waldarbeiten in der Region"
 		},
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
@@ -1199,7 +1199,7 @@
 		"trailName": "Escursione Sentiero dei Partigiani",
 		"published": 0,
 		"state": "VI",
-		"status": 2,
+		"status": 0,
 		"statusCustom": null,
 		"statusNotes": null,
 		"caiTrailStart": null,
