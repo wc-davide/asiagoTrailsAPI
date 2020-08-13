@@ -1209,6 +1209,22 @@
 	},
 	{
 		"category": "Escursioni e passeggiate",
+		"trailId": 72,
+		"articleId": 14190,
+		"caiTrailId": null,
+		"trailName": "Giro delle Malghe di Caltrano",
+		"published": 0,
+		"state": "VI",
+		"status": 0,
+		"statusCustom": null,
+		"statusNotes": null,
+		"caiTrailStart": null,
+		"caiTrailEnd": null,
+		"maintenanceAgency": null,
+		"lastUpdate": "2020-08-09T00:00:00"
+	},
+	{
+		"category": "Escursioni e passeggiate",
 		"trailId": null,
 		"articleId": 99999999999,
 		"caiTrailId": null,
