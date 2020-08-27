@@ -1179,17 +1179,12 @@
 		"trailName": "Escursione Malga I Lotto Valmaro - 7 Caliere",
 		"published": 0,
 		"state": "VI",
-		"status": 1,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Possibilità di itinerario chiuso momentaneamente a causa di lavori forestali in zona",
-			"en": "Possibility of itinerary closed temporarily due to forest works in the area",
-			"de": "Möglichkeit der vorübergehenden Schließung der Reiseroute aufgrund von Waldarbeiten in der Region"
-		},
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
-		"lastUpdate": "2020-07-20T00:00:00"
+		"lastUpdate": "2020-08-27T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
