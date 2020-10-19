@@ -1115,13 +1115,17 @@
 		"trailName": "MALGA VERDE",
 		"published": 0,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
-		"statusNotes": null,
+		"statusNotes": {
+			"it": "Il sentiero CAI 872 è percorribile (ripulito); il tratto del sentiero 872B dal Colle Termine Rotto al Col del Lampo è chiuso per lavori di esbosco fino a circa il 10/11/2020, perciò si consiglia di deviare seguendo la strada che in 1,5 km aggira a sud il Col del Lampo e si ricongiunge con il sentiero",
+			"en": "The CAI 872 path is passable (cleaned); the section of path 872B from Colle Termine Rotto to Col del Lampo is closed for logging works until about 10/11/2020, therefore it is advisable to detour following the road that in 1.5 km goes around the Col del Lampo south and rejoins the path",
+			"de": "Der CAI 872-Pfad ist passierbar (bereinigt). Der Abschnitt des Weges 872B vom Colle Termine Rotto zum Col del Lampo ist bis zum 11.10.2020 wegen Holzeinschlagarbeiten gesperrt. Daher ist es ratsam, einen Umweg über die Straße zu machen, die in 1,5 km um den Col del Lampo nach Süden führt und schließt sich dem Pfad wieder an"
+		},
 		"caiTrailStart": null,
 		"caiTrailEnd": null,
 		"maintenanceAgency": null,
-		"lastUpdate": "2020-07-08T00:00:00"
+		"lastUpdate": "2020-10-19T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
