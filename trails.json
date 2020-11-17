@@ -351,17 +351,17 @@
 		"trailName": "Itinerario escursione sul Monte Cornone",
 		"published": 1,
 		"state": "VI",
-		"status": 0,
+		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "Sentiero 781 presenta alcuni alberi caduti ma facilmente superabili. Sentiero 800 percorribile con attenzione, chiuso da Ori-Chiomenti a Valgardena causa lavori forestali",
-			"en": "Path 781 has some fallen trees that can be easily overcome. Carefully trail 800, closed by Ori-Chiomenti to Valgardena due to forest work",
-			"de": "Weg 781 hat einige umgestürzte Bäume, die leicht überwunden werden können. Vorsichtig auf dem 800er-Weg, der wegen Waldarbeiten von Ori-Chiomenti nach Gröden gesperrt wurde"
+			"it": "Sentiero 781 presenta alcuni alberi caduti ma facilmente superabili. Il sentiero 800 è chiuso per ordinanza del Comune di Foza, nel tratto da Foza a contrada Valcapra.",
+			"en": "Path 781 has some fallen but easily surmountable trees. Path 800 is closed by order of the Municipality of Foza, in the stretch from Foza to the Valcapra district.",
+			"de": "Pfad 781 hat einige umgestürzte, aber leicht zu überwindende Bäume. Der Weg 800 wird im Auftrag der Gemeinde Foza auf der Strecke von Foza bis zum Distrikt Valcapra gesperrt."
 		},
 		"caiTrailStart": null,
 		"caiTrailEnd": "Foza/Sasso Rosso",
 		"maintenanceAgency": "Vicenza/Marostica",
-		"lastUpdate": "2019-06-03T00:00:00"
+		"lastUpdate": "2020-11-17T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
