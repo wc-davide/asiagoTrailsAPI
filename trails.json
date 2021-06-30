@@ -214,14 +214,14 @@
 		"status": 3,
 		"statusCustom": null,
 		"statusNotes": {
-			"it": "860: Percorribile solo il tratto da malga Lora a casara Meletta",
-			"en": "860: Only the stretch from Malga Lora to Casara Meletta can be traveled",
-			"de": "860: Nur die Strecke von Malga Lora nach Casara Meletta kann befahren werden"
+			"it": "860: Non percorribile il tratto dal Pian della Futa-Val Vecchia-Kemple. Percorribile il tratto Cruni-Col Capon-Casara Meletta-Malga Lora",
+			"en": "860: Not passable the section from the Pian della Futa-Valle-Kemple.PREMTLY THE CRUNE-WITH CAPON-CASARA MOLETA-MALGA LORA",
+			"de": "860: Nicht bestehen den Abschnitt aus dem Pian della Futa-Valle-Kempel.Premty the Crune-mit Capon-Casara-Moleta-Malga Lora"
 		},
 		"caiTrailStart": "Val Miela - da S.P. 76",
 		"caiTrailEnd": "Monte Fior - Meletta di Foza - Malga Slapeur",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2020-06-23T00:00:00"
+		"lastUpdate": "2020-06-30T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
