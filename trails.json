@@ -175,17 +175,13 @@
 		"trailName": "Escursione sul Monte Longara",
 		"published": 1,
 		"state": "VI",
-		"status": 3,
+		"status": 0,
 		"statusCustom": null,
-		"statusNotes": {
-			"it": "Percorribile solo nel tratto Campo di Sotto-Passo della Forcellona-Albergo Marcesina e nel tratto Chiesa di Frizzon-Casara Binda",
-			"en": "Writely pass in the section Sotto-step field of the Forcellona-Albergo Marcesina and in the Church of Frizzon-Casara Binda",
-			"de": "WIRGEN SIE WIRCHE GABE IN DER ARBEITEN Sotto-Step-Feld des Forcellona-Albergo Marcesina und in der Kirche von Frizzon-Casara Binda"
-		},
+		"statusNotes": null,
 		"caiTrailStart": "Gallio Fontane",
 		"caiTrailEnd": "Malga Fiara",
 		"maintenanceAgency": "Asiago",
-		"lastUpdate": "2021-06-08T00:00:00"
+		"lastUpdate": "2021-06-24T00:00:00"
 	},
 	{
 		"category": "Escursioni e passeggiate",
